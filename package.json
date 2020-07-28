@@ -1,0 +1,27 @@
+{
+  "name": "translate_dis",
+  "version": "1.0.0",
+  "description": "Translate English <-> Japanese, and transliterate Romaji into Kanji-mixed regular Japanese expression. An open-source bot project, specially created for Oyasai Server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "author": "Kotlia",
+  "license": "MIT",
+  "dependencies": {
+    "forever": "^3.0.0",
+    "node-os-utils": "^1.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotlia/Translate-Dis.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Kotlia/Translate-Dis/issues"
+  },
+  "homepage": "https://github.com/Kotlia/Translate-Dis#readme"
+}

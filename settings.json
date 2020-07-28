@@ -1,0 +1,8 @@
+{
+  "Community_Goal": {
+    "Prize_icon": "Token.png",
+    "Prize_description": "100 ポイント配布",
+    "Max": "50",
+    "Command": "tokenmanager giveall 100"
+  }
+}
